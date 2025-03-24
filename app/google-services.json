@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "501876356743",
+    "firebase_url": "https://ex3th-a100b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ex3th-a100b",
+    "storage_bucket": "ex3th-a100b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501876356743:android:92534f9ca5c4821dd8ea22",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0QFxNfQd_lQYbHwTJbfTXzCfO-plE4HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
